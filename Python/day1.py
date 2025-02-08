@@ -3,7 +3,7 @@ print("Hello " + "World")
 print("\\n") # \n
 
 print("Hello "+input("What is your name? ") + "!") # # input function prompt for the user
-# Run the input function first then concat the hello and print
+# Run the input function first then concatenate the hello and print
 
 # len() return the length of a string
 
