@@ -1,4 +1,4 @@
-# ascii.co.uk/art art website to find art piece
+# https://ascii.co.uk/art art website to find art piece
 import random
 
 print(random.random()) # random floating number 0 to 1

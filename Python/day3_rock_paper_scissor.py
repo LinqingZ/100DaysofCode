@@ -21,3 +21,5 @@ elif (user_choice == 0 and computer_choice == 2) or \
 else:
     print("You lose!")
 
+## TODO:
+# choose-your-own-adventure story writing 
